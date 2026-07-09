@@ -18,7 +18,7 @@
 				<link>http://localhost:1313/posts/my_2b_pixel_art/</link>
 				<pubDate>Thu, 09 Jul 2026 10:47:53 +0300</pubDate>
 				<guid>http://localhost:1313/posts/my_2b_pixel_art/</guid>
-				<description>&lt;img src=&#34;../../paints/2B.png&#34; alt=&#34;2B&#34; style=&#34;align:center;&#34;&gt;</description>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Applications: Aseprite&lt;/li&gt;&#xA;&lt;li&gt;Time: 6 Hours&lt;/li&gt;&#xA;&lt;li&gt;Level: pre begginer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;img src=&#34;../../paints/2B.png&#34; alt=&#34;2B&#34; style=&#34;align:center;&#34;&gt;</description>
 			</item>
 	</channel>
 </rss>
