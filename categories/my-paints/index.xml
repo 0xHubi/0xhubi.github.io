@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>My Paints on 0xhubi</title>
+		<link>http://localhost:1313/categories/my-paints/</link>
+		<description>Recent content in My Paints on 0xhubi</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 08 Jul 2026 19:20:18 +0300</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/categories/my-paints/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My 2B Pixel Art Paint</title>
+				<link>http://localhost:1313/posts/my_2b_pixel_art/</link>
+				<pubDate>Wed, 08 Jul 2026 19:20:18 +0300</pubDate>
+				<guid>http://localhost:1313/posts/my_2b_pixel_art/</guid>
+				<description>&lt;img src=&#34;../../paints/2B.png&#34; alt=&#34;Avatar&#34; align=&#34;center&#34;&gt;</description>
+			</item>
+	</channel>
+</rss>
