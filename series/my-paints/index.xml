@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>My Paints on 0xhubi</title>
-		<link>http://localhost:1313/series/my-paints/</link>
+		<link>https://0xhubi.github.io/series/my-paints/</link>
 		<description>Recent content in My Paints on 0xhubi</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -10,15 +10,22 @@
 		
 		
 		
-			<lastBuildDate>Wed, 08 Jul 2026 19:20:18 +0300</lastBuildDate>
+			<lastBuildDate>Thu, 30 Jul 2026 10:10:38 +0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/series/my-paints/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://0xhubi.github.io/series/my-paints/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>My 2B Pixel Art Paint</title>
-				<link>http://localhost:1313/posts/my_2b_pixel_art/</link>
-				<pubDate>Wed, 08 Jul 2026 19:20:18 +0300</pubDate>
-				<guid>http://localhost:1313/posts/my_2b_pixel_art/</guid>
-				<description>&lt;img src=&#34;../../paints/2B.png&#34; alt=&#34;Avatar&#34; align=&#34;center&#34;&gt;</description>
+				<title>Drawing a friend avatar</title>
+				<link>https://0xhubi.github.io/posts/another_pixel_art_paint/</link>
+				<pubDate>Thu, 30 Jul 2026 10:10:38 +0300</pubDate>
+				<guid>https://0xhubi.github.io/posts/another_pixel_art_paint/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Applications: Aseprite&lt;/li&gt;&#xA;&lt;li&gt;Time: 8 Hours&lt;/li&gt;&#xA;&lt;li&gt;Level: begginer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;img src=&#34;../../paints/My_My.png&#34; alt=&#34;My MY&#34; style=&#34;align:center;&#34;&gt;&#xA;&lt;p&gt;The Refeance&lt;/p&gt;&#xA;&lt;img src=&#34;../../paints/Ref_My_My.jpg&#34; alt=&#34;My MY&#34; style=&#34;align:center;&#34;&gt;</description>
+			</item>
+			<item>
+				<title>2B Pixel Art Paint</title>
+				<link>https://0xhubi.github.io/posts/my_2b_pixel_art/</link>
+				<pubDate>Thu, 09 Jul 2026 10:47:53 +0300</pubDate>
+				<guid>https://0xhubi.github.io/posts/my_2b_pixel_art/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Applications: Aseprite&lt;/li&gt;&#xA;&lt;li&gt;Time: 6 Hours&lt;/li&gt;&#xA;&lt;li&gt;Level: pre begginer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;img src=&#34;../../paints/2B.png&#34; alt=&#34;2B&#34; style=&#34;align:center;&#34;&gt;</description>
 			</item>
 	</channel>
 </rss>
